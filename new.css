@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+    font-family: 'Quicksand', sans-serif;
+}
+.container1{
+    height: 370px;
+    background-color: #dadada;
+    text-align: center;
+    padding-top: 60px;
+    /* border: 2px solid red; */
+}
+.container1 h6{
+    color: #2592AF;
+}
+.container1 h1{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.container1 p{
+    font-size: 10px;
+    margin-top: 10px;
+}
+.icon{
+    margin-top: 40px;
+    font-size: 35px;
+    letter-spacing: 20px;
+}
+.click{
+    margin-top: 40px;
+    background-color: #FF6464;
+    padding: 8px 20px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+}
+.container2{
+    height: 400px;
+    background-color: #e8f6fad0;
+    display: flex;
+
+}
+.img{
+    width: 250px;
+    height: 300px;
+    margin-left: 80%;
+    /* margin-bottom: 20px; */
+    /* padding-top: 5%; */
+}
+.text-container{
+    /* background-color: red; */
+    width: 55%;
+    margin-left: 120px;
+}
+.text-container h6{
+    margin-top: 70px;
+    color: #2592AF;
+}
+.text-container h1{
+    margin-top: 10px;
+}
+.text-container h5{
+    margin-top: 10px;
+    margin-left: 40px;
+    font-weight: 600;
+}
+.text-container p{
+    font-size: 10px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.container3{
+    background-color: #fff;
+    width: 100%;
+    height: 55%;
+    padding-left: 15%;
+    /* text-align: center; */
+}
+.container3 h5{
+   padding-top: 30px;
+   font-size: 10px;
+   font-weight: 700;
+   color: #2592AF;
+   text-align: center;
+   align-items: center;
+}
+.container3 h1{
+    padding-top: 5px;
+    font-size: 30px;
+    text-align: center;
+   align-items: center;
+}
+.inner-container{
+    height: 200px;
+    width: 60%;
+    box-shadow: 0px 5px 7px;
+    margin-left: 10%;
+    /* background-color: red; */
+}
+.container3 p{
+    padding-top: 10px;
+    font-size: 10px;
+    
+}
+.container3 h3{
+    padding-top: 15px;
+    font-weight: 500;
+}
+.container4{
+    height: 400px;
+    background-color: #e8f6fad0;
+}
+.text-container2{
+    width: 40%;
+    /* background-color: red; */
+    margin-left: 55%;
+    padding-top: 70px;
+}
+.text-container2 h6{
+    color: #2592AF;
+}
+.text-container2 h1{
+    margin-top: 10px;
+}
+.text-container2 p{
+    font-size: 10px;
+    margin-top: 10px;
+}
+.a-man{
+    width: 20px;
+    height: 20px;
+    margin-top: 30px;
+}
+.text-container2 h5{
+    margin-top: 10px;
+}
+.sheet{
+    position: absolute;
+    top: 200%;
+    left: 15%;
+    width: 250px;
+    height: 200px;
+    /* margin: 0px 150px; */
+}
+.container5{
+    height: 400px;
+    background-color: blue;
+}
+
+
